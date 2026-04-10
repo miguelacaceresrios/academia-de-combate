@@ -4,8 +4,9 @@
 
 # Combat Training 
 > Sistema para gestionar clases de artes marciales.
+
 ## Descripción
-### Desarrolle una plataforma web diseñada para estructurar, presentar y escalar servicios de entrenamiento de MMA bajo una lógica de producto, el enfoque principal está en mantener claridad operativa y que la progresión tenga lógica , que la capa visual no comprometa la mantenibilidad del sistema.
+Desarolle una plataforma web diseñada para estructurar, presentar y escalar servicios de entrenamiento de MMA bajo una lógica de producto, el enfoque principal está en mantener claridad operativa y que la progresión tenga lógica , que la capa visual no comprometa la mantenibilidad del sistema.
 ---
 ## Arquitectura
 El proyecto sigue una aproximación modular donde cada responsabilidad está desacoplada. La interfaz se construye a partir de componentes reutilizables, mientras que los datos se mantienen separados.
