@@ -34,11 +34,12 @@ La evolución del sistema está orientada a integrar:
 ## Extra
 - La animacion del hero esta inspirada en el menu de mortal combat 9
 
-paleta de colores :
+## paleta de colores :
 -  #A3181E
 -  #5B060B
 -  #252624
 -  #98949D
 -  #6C6266
-Fuentes :  
+
+## Fuentes :  
 - none
